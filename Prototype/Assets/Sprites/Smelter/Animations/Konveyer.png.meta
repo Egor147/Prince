@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 7647c782cfd7c354c892d70750fb9d59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8655909292592195804
+    second: Konveyer_0
+  - first:
+      213: -4335790695189593852
+    second: Konveyer_1
+  - first:
+      213: -3817715223275941699
+    second: Konveyer_2
+  - first:
+      213: 3666336385745547790
+    second: Konveyer_3
+  - first:
+      213: -7268582571985428064
+    second: Konveyer_4
+  - first:
+      213: 2860951414783539251
+    second: Konveyer_5
+  - first:
+      213: -9005396474899145055
+    second: Konveyer_6
+  - first:
+      213: 5192316187299984761
+    second: Konveyer_7
+  - first:
+      213: 5445712197655045479
+    second: Konveyer_8
+  - first:
+      213: 624781357987088791
+    second: Konveyer_9
+  - first:
+      213: -1040017797407466785
+    second: Konveyer_10
+  - first:
+      213: -5301069968370992319
+    second: Konveyer_11
+  - first:
+      213: -2404434491644027006
+    second: Konveyer_12
+  - first:
+      213: 2654119515957080743
+    second: Konveyer_13
+  - first:
+      213: 9146245356121227461
+    second: Konveyer_14
+  - first:
+      213: 1874918267635709787
+    second: Konveyer_15
+  - first:
+      213: -2739518656101379785
+    second: Konveyer_16
+  - first:
+      213: 4871801840880925828
+    second: Konveyer_17
+  - first:
+      213: 2200723942691231725
+    second: Konveyer_18
+  - first:
+      213: -1848013153014370862
+    second: Konveyer_19
+  - first:
+      213: -4019129247022427582
+    second: Konveyer_20
+  - first:
+      213: -6067940545039328354
+    second: Konveyer_21
+  - first:
+      213: -7576400342892544793
+    second: Konveyer_22
+  - first:
+      213: 2594745234512827999
+    second: Konveyer_23
+  - first:
+      213: 1833615122564458231
+    second: Konveyer_24
+  - first:
+      213: -3044100730586629522
+    second: Konveyer_25
+  - first:
+      213: -7534619709353945310
+    second: Konveyer_26
+  - first:
+      213: -1405575128909246766
+    second: Konveyer_27
+  - first:
+      213: 801904123900288408
+    second: Konveyer_28
+  - first:
+      213: 4124810922735738652
+    second: Konveyer_29
+  - first:
+      213: -8832276033519004397
+    second: Konveyer_30
+  - first:
+      213: -1185197745010558191
+    second: Konveyer_31
+  - first:
+      213: 7831272918542843200
+    second: Konveyer_32
+  - first:
+      213: -2924395481648053516
+    second: Konveyer_33
+  - first:
+      213: 3035854479561959326
+    second: Konveyer_34
+  - first:
+      213: -8863139945509170770
+    second: Konveyer_35
+  - first:
+      213: 1772127711040263019
+    second: Konveyer_36
+  - first:
+      213: -1772468066808086593
+    second: Konveyer_37
+  - first:
+      213: -8189251216481117194
+    second: Konveyer_38
+  - first:
+      213: -3807970074364900104
+    second: Konveyer_39
+  - first:
+      213: -4159215367201602725
+    second: Konveyer_40
+  - first:
+      213: 2751829764650700
+    second: Konveyer_41
+  - first:
+      213: -8613619303642845136
+    second: Konveyer_42
+  - first:
+      213: 1833864458410118655
+    second: Konveyer_43
+  - first:
+      213: 7409930063174260831
+    second: Konveyer_44
+  - first:
+      213: -1395788269331842541
+    second: Konveyer_45
+  - first:
+      213: -3960052392297135599
+    second: Konveyer_46
+  - first:
+      213: 1974842986358864592
+    second: Konveyer_47
+  - first:
+      213: -5740376987418718289
+    second: Konveyer_48
+  - first:
+      213: -4607016231149954773
+    second: Konveyer_49
+  - first:
+      213: -2374790378534787006
+    second: Konveyer_50
+  - first:
+      213: -1218115113875238032
+    second: Konveyer_51
+  - first:
+      213: -6884436646469582694
+    second: Konveyer_52
+  - first:
+      213: -6330754480576480692
+    second: Konveyer_53
+  - first:
+      213: 7315838798378330936
+    second: Konveyer_54
+  - first:
+      213: 4878162504807144425
+    second: Konveyer_55
+  - first:
+      213: 2528714733244765975
+    second: Konveyer_56
+  - first:
+      213: 6467400898019447203
+    second: Konveyer_57
+  - first:
+      213: -3074424872423466428
+    second: Konveyer_58
+  - first:
+      213: -7569366503526222579
+    second: Konveyer_59
+  - first:
+      213: -3637024232965017258
+    second: Konveyer_60
+  - first:
+      213: -4947946210301408228
+    second: Konveyer_61
+  - first:
+      213: 7832830172264371829
+    second: Konveyer_62
+  - first:
+      213: -2819536745980507973
+    second: Konveyer_63
+  - first:
+      213: -668566238939727516
+    second: Konveyer_0
+  - first:
+      213: 6480147818529192061
+    second: Konveyer_1
+  - first:
+      213: 7961090101898682816
+    second: Konveyer_2
+  - first:
+      213: -239564801806436105
+    second: Konveyer_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Konveyer_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 218
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a63059aec02b90800000000000000
+      internalID: -7268582571985428064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 89
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f2dd572424b720800000000000000
+      internalID: 2860951414783539251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 89
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aed4146e97660380800000000000000
+      internalID: -9005396474899145055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 89
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b681ff00de0840800000000000000
+      internalID: 5192316187299984761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 218
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765ad32246e039b40800000000000000
+      internalID: 5445712197655045479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 30
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7994b19b55baba800800000000000000
+      internalID: 624781357987088791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 30
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda9171d25d1191f0800000000000000
+      internalID: -1040017797407466785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_11
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 30
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b71c533f0de66b0800000000000000
+      internalID: -5301069968370992319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469bd234c86c8b6f0800000000000000
+      internalID: -668566238939727516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78747f8b1c1ee950800000000000000
+      internalID: 6480147818529192061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 148
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1ac8c94497b7e60800000000000000
+      internalID: 7961090101898682816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konveyer_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 148
+        width: 219
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f3aff415ecacf0800000000000000
+      internalID: -239564801806436105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

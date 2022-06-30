@@ -1,0 +1,1123 @@
+fileFormatVersion: 2
+guid: ee2752045b29213409760c293747d343
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4642164064047621745
+    second: Stok_0
+  - first:
+      213: -6764605400433741927
+    second: Stok_1
+  - first:
+      213: 7223045724160881309
+    second: Stok_2
+  - first:
+      213: -2085813850315905290
+    second: Stok_3
+  - first:
+      213: -9043761694592272770
+    second: Stok_4
+  - first:
+      213: 2346395394441517111
+    second: Stok_5
+  - first:
+      213: -4167462660716284924
+    second: Stok_6
+  - first:
+      213: -4320284706597555408
+    second: Stok_7
+  - first:
+      213: 448328059668657232
+    second: Stok_8
+  - first:
+      213: -5956122516201835605
+    second: Stok_9
+  - first:
+      213: -1494182278670367899
+    second: Stok_10
+  - first:
+      213: 6402842950718188549
+    second: Stok_11
+  - first:
+      213: 7749426557319495265
+    second: Stok_12
+  - first:
+      213: -5401162463704786680
+    second: Stok_13
+  - first:
+      213: 4327334737305025440
+    second: Stok_14
+  - first:
+      213: 6372879028308829722
+    second: Stok_15
+  - first:
+      213: -5029735023353564019
+    second: Stok_16
+  - first:
+      213: -3835928803475617218
+    second: Stok_17
+  - first:
+      213: 4741894489695927862
+    second: Stok_18
+  - first:
+      213: 672428635004286191
+    second: Stok_19
+  - first:
+      213: 1044966508269661266
+    second: Stok_20
+  - first:
+      213: -5702531067029472015
+    second: Stok_21
+  - first:
+      213: -8585498864354491614
+    second: Stok_22
+  - first:
+      213: -6554562874105450655
+    second: Stok_23
+  - first:
+      213: -2703410121352993597
+    second: Stok_24
+  - first:
+      213: -7138848627103094817
+    second: Stok_25
+  - first:
+      213: -5514117827658122683
+    second: Stok_26
+  - first:
+      213: -3326753242186427686
+    second: Stok_27
+  - first:
+      213: 419636943123954770
+    second: Stok_28
+  - first:
+      213: 5545011003855667408
+    second: Stok_29
+  - first:
+      213: 6820960564594867821
+    second: Stok_30
+  - first:
+      213: 4201564527803626470
+    second: Stok_31
+  - first:
+      213: 211345943222959713
+    second: Stok_32
+  - first:
+      213: -8958027926970042672
+    second: Stok_33
+  - first:
+      213: -7212376340771525134
+    second: Stok_34
+  - first:
+      213: -73831670467045876
+    second: Stok_35
+  - first:
+      213: 1775637228660307768
+    second: Stok_36
+  - first:
+      213: -7400952908774407768
+    second: Stok_37
+  - first:
+      213: -4613990062548259448
+    second: Stok_38
+  - first:
+      213: 6745554701825808862
+    second: Stok_39
+  - first:
+      213: 2157059254329519257
+    second: Stok_40
+  - first:
+      213: 3454384784127832567
+    second: Stok_41
+  - first:
+      213: 2224174739706605621
+    second: Stok_42
+  - first:
+      213: -1990561749766836853
+    second: Stok_43
+  - first:
+      213: -8435256205526617768
+    second: Stok_44
+  - first:
+      213: -5830852855202347653
+    second: Stok_45
+  - first:
+      213: 4781784102524003955
+    second: Stok_46
+  - first:
+      213: -5705189042341914400
+    second: Stok_47
+  - first:
+      213: -5426572727640621066
+    second: Stok_48
+  - first:
+      213: 3373887165097506623
+    second: Stok_49
+  - first:
+      213: -4460525858908640792
+    second: Stok_50
+  - first:
+      213: -7328578446753147766
+    second: Stok_0
+  - first:
+      213: 1233059429367136331
+    second: Stok_1
+  - first:
+      213: 450924434431254419
+    second: Stok_2
+  - first:
+      213: -2183352068941944271
+    second: Stok_3
+  - first:
+      213: -2229059239330996379
+    second: Stok_4
+  - first:
+      213: -5045609841275440261
+    second: Stok_5
+  - first:
+      213: -8048228118575206909
+    second: Stok_6
+  - first:
+      213: 8949621196424652642
+    second: Stok_7
+  - first:
+      213: 1698994343385461449
+    second: Stok_8
+  - first:
+      213: -2004017391153658769
+    second: Stok_9
+  - first:
+      213: -7599698967780924580
+    second: Stok_10
+  - first:
+      213: 2478714347876329439
+    second: Stok_11
+  - first:
+      213: -1527100446634554842
+    second: Stok_12
+  - first:
+      213: -7536501379503397631
+    second: Stok_13
+  - first:
+      213: -285156458347294187
+    second: Stok_14
+  - first:
+      213: -6383872954797604830
+    second: Stok_15
+  - first:
+      213: 7301702461510412669
+    second: Stok_16
+  - first:
+      213: -5296926406217729561
+    second: Stok_17
+  - first:
+      213: -4585712432636576671
+    second: Stok_18
+  - first:
+      213: 6111124029523038065
+    second: Stok_19
+  - first:
+      213: -5339446541719273566
+    second: Stok_20
+  - first:
+      213: -590692980207762857
+    second: Stok_21
+  - first:
+      213: -6574720625151869801
+    second: Stok_22
+  - first:
+      213: 4725647636340201221
+    second: Stok_23
+  - first:
+      213: -3180409464251217301
+    second: Stok_24
+  - first:
+      213: -5834040377145447578
+    second: Stok_25
+  - first:
+      213: 2196117420664695662
+    second: Stok_26
+  - first:
+      213: 1526935627938471222
+    second: Stok_27
+  - first:
+      213: 4865218793099087271
+    second: Stok_28
+  - first:
+      213: 4538467907586604276
+    second: Stok_29
+  - first:
+      213: 7330374208510427223
+    second: Stok_30
+  - first:
+      213: -7718521546704624570
+    second: Stok_31
+  - first:
+      213: -5187547028453694978
+    second: Stok_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stok_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84d1bc2bb8ab4a90800000000000000
+      internalID: -7328578446753147766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 983
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40cf5a9405bc1110800000000000000
+      internalID: 1233059429367136331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 983
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f91de4261024600800000000000000
+      internalID: 450924434431254419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_3
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 983
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ae9177cdc23b1e0800000000000000
+      internalID: -2183352068941944271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_4
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 983
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f9f509e6ac011e0800000000000000
+      internalID: -2229059239330996379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_5
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 983
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73ff8705946af9b0800000000000000
+      internalID: -5045609841275440261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 247
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4979757, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea301ea23fe4090800000000000000
+      internalID: -8048228118575206909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 782
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267a23f9f01733c70800000000000000
+      internalID: 8949621196424652642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_8
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 782
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c273e88a5a049710800000000000000
+      internalID: 1698994343385461449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 782
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64c49ceccc4034e0800000000000000
+      internalID: -2004017391153658769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_10
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 782
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53e381cd02788690800000000000000
+      internalID: -7599698967780924580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_11
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 782
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd725dc0199266220800000000000000
+      internalID: 2478714347876329439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 576
+        width: 246
+        height: 169
+      alignment: 9
+      pivot: {x: 0.49186993, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac1061c36aecae0800000000000000
+      internalID: -1527100446634554842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 576
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056579ece7f86790800000000000000
+      internalID: -7536501379503397631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 576
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121dc246bbea0cf0800000000000000
+      internalID: -285156458347294187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_15
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 576
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220c01eee5de767a0800000000000000
+      internalID: -6383872954797604830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_16
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 576
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d796ce1e3bbd45560800000000000000
+      internalID: 7301702461510412669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_17
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 576
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e971047f798d76b0800000000000000
+      internalID: -5296926406217729561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 246
+        height: 169
+      alignment: 9
+      pivot: {x: 0.49593496, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cba92b6d64c50c0800000000000000
+      internalID: -4585712432636576671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 380
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f031e3de21fc450800000000000000
+      internalID: 6111124029523038065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 380
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af72afe8a976e5b0800000000000000
+      internalID: -5339446541719273566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_21
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 380
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75246673ddf6dc7f0800000000000000
+      internalID: -590692980207762857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_22
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 380
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c73600d66e1c4a0800000000000000
+      internalID: -6574720625151869801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_23
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 380
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d8b9dc7fd49140800000000000000
+      internalID: 4725647636340201221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a040b517aecd3d0800000000000000
+      internalID: -3180409464251217301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 198
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba5f2ef23590fa0800000000000000
+      internalID: -5834040377145447578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 198
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b24c7982d2a7e10800000000000000
+      internalID: 2196117420664695662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_27
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 198
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d19221dd3c03510800000000000000
+      internalID: 1526935627938471222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_28
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 198
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adc93d17bab48340800000000000000
+      internalID: 4865218793099087271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_29
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 198
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcb5302480ebfe30800000000000000
+      internalID: 4538467907586604276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 247
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4979757, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75003f03188bab560800000000000000
+      internalID: 7330374208510427223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e8793c8d42e490800000000000000
+      internalID: -7718521546704624570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stok_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 248
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1626166712208b0800000000000000
+      internalID: -5187547028453694978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: c3c9286f8a66f484a836c586019c2757
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7328387195223454782
+    second: kran-4_0
+  - first:
+      213: 3247047675863228187
+    second: kran-4_1
+  - first:
+      213: 3826824763587784642
+    second: kran-4_2
+  - first:
+      213: 2270438587978993206
+    second: kran-4_3
+  - first:
+      213: 5626876530117628389
+    second: kran-4_4
+  - first:
+      213: -3534674369369774340
+    second: kran-4_5
+  - first:
+      213: -3152879754845823672
+    second: kran-4_6
+  - first:
+      213: -3118072474031944652
+    second: kran-4_7
+  - first:
+      213: 3410099213220979199
+    second: kran-4_8
+  - first:
+      213: -156386509887245494
+    second: kran-4_9
+  - first:
+      213: 7660809903481569594
+    second: kran-4_10
+  - first:
+      213: -74602724259282580
+    second: kran-4_11
+  - first:
+      213: -6545244131412536298
+    second: kran-4_12
+  - first:
+      213: -9183451346346743699
+    second: kran-4_13
+  - first:
+      213: -8781902798077890831
+    second: kran-4_14
+  - first:
+      213: 543226165268892272
+    second: kran-4_15
+  - first:
+      213: -5970598876912699285
+    second: kran-4_16
+  - first:
+      213: -6803854376567111361
+    second: kran-4_17
+  - first:
+      213: -8428413535965106587
+    second: kran-4_18
+  - first:
+      213: -4082098442305528177
+    second: kran-4_19
+  - first:
+      213: 5382992401005895278
+    second: kran-4_20
+  - first:
+      213: 2191379734297488869
+    second: kran-4_21
+  - first:
+      213: 4750831582333673643
+    second: kran-4_22
+  - first:
+      213: 3721666389487376591
+    second: kran-4_23
+  - first:
+      213: 4458898945375824354
+    second: kran-4_24
+  - first:
+      213: -7854777918607509245
+    second: kran-4_25
+  - first:
+      213: -3595646327986770983
+    second: kran-4_26
+  - first:
+      213: 5663983347983005128
+    second: kran-4_27
+  - first:
+      213: 7399776499201241371
+    second: kran-4_28
+  - first:
+      213: 4348172324739782719
+    second: kran-4_29
+  - first:
+      213: -8910126366200589358
+    second: kran-4_30
+  - first:
+      213: -8637407872718547891
+    second: kran-4_31
+  - first:
+      213: -7256440384532050279
+    second: kran-4_32
+  - first:
+      213: -171093152648933835
+    second: kran-4_33
+  - first:
+      213: -4285568430004417533
+    second: kran-4_34
+  - first:
+      213: -6419549353642138630
+    second: kran-4_35
+  - first:
+      213: 4922710190648156247
+    second: kran-4_36
+  - first:
+      213: 1677626699785323266
+    second: kran-4_37
+  - first:
+      213: -1490141661178928119
+    second: kran-4_38
+  - first:
+      213: -214218145414240172
+    second: kran-4_39
+  - first:
+      213: 8750252231955817142
+    second: kran-4_40
+  - first:
+      213: -7047566320573432332
+    second: kran-4_41
+  - first:
+      213: -1309167138521271364
+    second: kran-4_42
+  - first:
+      213: 4328355727648442821
+    second: kran-4_43
+  - first:
+      213: -76990509376862367
+    second: kran-4_44
+  - first:
+      213: 785771376896442959
+    second: kran-4_0
+  - first:
+      213: 9031171272428407488
+    second: kran-4_1
+  - first:
+      213: 318282437992133716
+    second: kran-4_2
+  - first:
+      213: -5701430648814940723
+    second: kran-4_3
+  - first:
+      213: -7089247968142555448
+    second: kran-4_4
+  - first:
+      213: -161834635454585432
+    second: kran-4_5
+  - first:
+      213: 7629151995752470751
+    second: kran-4_6
+  - first:
+      213: -6069134938747365444
+    second: kran-4_7
+  - first:
+      213: -1413793148109797916
+    second: kran-4_8
+  - first:
+      213: -823230110544429447
+    second: kran-4_9
+  - first:
+      213: 5823660869247728775
+    second: kran-4_10
+  - first:
+      213: 3890993940685862500
+    second: kran-4_11
+  - first:
+      213: -818306270640376523
+    second: kran-4_12
+  - first:
+      213: -4467360719660682276
+    second: kran-4_13
+  - first:
+      213: -2641614565729161133
+    second: kran-4_14
+  - first:
+      213: 8863007907633757864
+    second: kran-4_15
+  - first:
+      213: 4615992715296831043
+    second: kran-4_16
+  - first:
+      213: -1333311019214999783
+    second: kran-4_17
+  - first:
+      213: 5768670068610545023
+    second: kran-4_18
+  - first:
+      213: -1469353388990202338
+    second: kran-4_19
+  - first:
+      213: 5816562703653903316
+    second: kran-4_20
+  - first:
+      213: -4856140261235976638
+    second: kran-4_21
+  - first:
+      213: 3839461486523568286
+    second: kran-4_22
+  - first:
+      213: -1086109735843688102
+    second: kran-4_23
+  - first:
+      213: 39725737466332453
+    second: kran-4_24
+  - first:
+      213: -7217781010753504106
+    second: kran-4_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kran-4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42059277ee97ea00800000000000000
+      internalID: 785771376896442959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 595
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cacece4c6a255d70800000000000000
+      internalID: 9031171272428407488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 595
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45434c6e034ca6400800000000000000
+      internalID: 318282437992133716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 595
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd4cd9480370e0b0800000000000000
+      internalID: -5701430648814940723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 595
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6043e888eed9d90800000000000000
+      internalID: -7089247968142555448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 595
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5ef59a14c01cdf0800000000000000
+      internalID: -161834635454585432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_6
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 595
+        width: 160
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d944b15130e960800000000000000
+      internalID: 7629151995752470751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c0769ea916ab4d0800000000000000
+      internalID: -3118072474031944652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 407
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff120ecba2b135f20800000000000000
+      internalID: 3410099213220979199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 407
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f18e3c4764ddf0800000000000000
+      internalID: -156386509887245494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 407
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3140dcb40aa05a60800000000000000
+      internalID: 7660809903481569594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_11
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 407
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61cf31b735f6fef0800000000000000
+      internalID: -74602724259282580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_12
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 407
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61412f2042f9a25a0800000000000000
+      internalID: -6545244131412536298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d686be018a3dd8080800000000000000
+      internalID: -9183451346346743699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 215
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feee840fe9602680800000000000000
+      internalID: -8781902798077890831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 215
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07acc85b15de98700800000000000000
+      internalID: 543226165268892272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 215
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68b54d74fb242da0800000000000000
+      internalID: -5970598876912699285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_17
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 215
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f310b3d2e7ad391a0800000000000000
+      internalID: -6803854376567111361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_18
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 215
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea4b07b82480b80800000000000000
+      internalID: -8428413535965106587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e143838197957c0800000000000000
+      internalID: -4082098442305528177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 14
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e5592811b34ba40800000000000000
+      internalID: 5382992401005895278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 14
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edaac60248596e10800000000000000
+      internalID: 2191379734297488869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_22
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 14
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0a4b437285ee140800000000000000
+      internalID: 4750831582333673643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 14
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8d7edecd306a330800000000000000
+      internalID: 3721666389487376591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-4_24
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 14
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96d7077f031ed30800000000000000
+      internalID: 4458898945375824354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

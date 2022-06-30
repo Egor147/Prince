@@ -1,0 +1,1264 @@
+fileFormatVersion: 2
+guid: e626f08b762293741b76fe6aafa6f8ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5207052292147532028
+    second: kran-3_0
+  - first:
+      213: 6706940096594063170
+    second: kran-3_1
+  - first:
+      213: 9118039842684980514
+    second: kran-3_2
+  - first:
+      213: 8810844225217489994
+    second: kran-3_3
+  - first:
+      213: 4444082615917796629
+    second: kran-3_4
+  - first:
+      213: -6129378940320438149
+    second: kran-3_5
+  - first:
+      213: -4778465536488461650
+    second: kran-3_6
+  - first:
+      213: -609361194303006975
+    second: kran-3_7
+  - first:
+      213: -2402609574830847271
+    second: kran-3_8
+  - first:
+      213: -3787600781244260517
+    second: kran-3_9
+  - first:
+      213: -285272245806103186
+    second: kran-3_10
+  - first:
+      213: 6099867521111232258
+    second: kran-3_11
+  - first:
+      213: -1593333741345711789
+    second: kran-3_12
+  - first:
+      213: -4949264884745545582
+    second: kran-3_13
+  - first:
+      213: 7266213164221615211
+    second: kran-3_14
+  - first:
+      213: 1158610261544873719
+    second: kran-3_15
+  - first:
+      213: 8445539682647139096
+    second: kran-3_16
+  - first:
+      213: -3446744279836000388
+    second: kran-3_17
+  - first:
+      213: 6269676496205420746
+    second: kran-3_18
+  - first:
+      213: 5990066245193519095
+    second: kran-3_19
+  - first:
+      213: 8338271192842077367
+    second: kran-3_20
+  - first:
+      213: 9113127695558160426
+    second: kran-3_21
+  - first:
+      213: 1815005853534894384
+    second: kran-3_22
+  - first:
+      213: 7186472546147860807
+    second: kran-3_23
+  - first:
+      213: -4990373446040980598
+    second: kran-3_24
+  - first:
+      213: 99215233282468697
+    second: kran-3_25
+  - first:
+      213: -8730034065871709970
+    second: kran-3_26
+  - first:
+      213: -1394071635926609715
+    second: kran-3_27
+  - first:
+      213: -696379987974265985
+    second: kran-3_28
+  - first:
+      213: 8780584191030507895
+    second: kran-3_29
+  - first:
+      213: -2565514705970093627
+    second: kran-3_30
+  - first:
+      213: 8950300895705147011
+    second: kran-3_31
+  - first:
+      213: 4787901546947914114
+    second: kran-3_32
+  - first:
+      213: -2884027961037512980
+    second: kran-3_33
+  - first:
+      213: -3487631814187448665
+    second: kran-3_34
+  - first:
+      213: -8261141290663186611
+    second: kran-3_35
+  - first:
+      213: -5215491025715306580
+    second: kran-3_36
+  - first:
+      213: -3579242248400454432
+    second: kran-3_37
+  - first:
+      213: 4933657190969651351
+    second: kran-3_38
+  - first:
+      213: 1179140485563504686
+    second: kran-3_39
+  - first:
+      213: 4212843423425895218
+    second: kran-3_40
+  - first:
+      213: 6626264873806584841
+    second: kran-3_41
+  - first:
+      213: -2003244994965543353
+    second: kran-3_42
+  - first:
+      213: 4664789390186913081
+    second: kran-3_0
+  - first:
+      213: 1703417503700175262
+    second: kran-3_1
+  - first:
+      213: -193752625273643405
+    second: kran-3_2
+  - first:
+      213: -255765298872598623
+    second: kran-3_3
+  - first:
+      213: -6778305948375752297
+    second: kran-3_4
+  - first:
+      213: -5968874772316868965
+    second: kran-3_5
+  - first:
+      213: 1869282661666022766
+    second: kran-3_6
+  - first:
+      213: 2946932931357902225
+    second: kran-3_7
+  - first:
+      213: 3233601804732651683
+    second: kran-3_8
+  - first:
+      213: -7849026987719772788
+    second: kran-3_9
+  - first:
+      213: 3132073248957671539
+    second: kran-3_10
+  - first:
+      213: -5300447633285091964
+    second: kran-3_43
+  - first:
+      213: -6006824435569740430
+    second: kran-3_44
+  - first:
+      213: 5136717519488387233
+    second: kran-3_45
+  - first:
+      213: -5095033976210478550
+    second: kran-3_46
+  - first:
+      213: -6265645010769855089
+    second: kran-3_47
+  - first:
+      213: -2167473914463050905
+    second: kran-3_48
+  - first:
+      213: 2476494684394834489
+    second: kran-3_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kran-3_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f07c4213517a450800000000000000
+      internalID: 6099867521111232258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359d172776753e9e0800000000000000
+      internalID: -1593333741345711789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2985d654fcda05bb0800000000000000
+      internalID: -4949264884745545582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c42b3ff56c6d460800000000000000
+      internalID: 7266213164221615211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe2180f4e5341010800000000000000
+      internalID: 1158610261544873719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_16
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e5a05895943570800000000000000
+      internalID: 8445539682647139096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff3c0d654ba20d0800000000000000
+      internalID: -3446744279836000388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_18
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac890fc1e8d520750800000000000000
+      internalID: 6269676496205420746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_19
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff41d5638df02350800000000000000
+      internalID: 5990066245193519095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_20
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4893ac87d77b370800000000000000
+      internalID: 8338271192842077367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_21
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 388
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20b48e0b55587e70800000000000000
+      internalID: 9113127695558160426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039b33d1532303910800000000000000
+      internalID: 1815005853534894384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7418d3584ba7bb360800000000000000
+      internalID: 7186472546147860807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a837f2c7ac1aebab0800000000000000
+      internalID: -4990373446040980598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95beb10aabb706100800000000000000
+      internalID: 99215233282468697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee858a25540b8d680800000000000000
+      internalID: -8730034065871709970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_27
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc09525bb3347ace0800000000000000
+      internalID: -1394071635926609715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_28
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f736a1c2716f556f0800000000000000
+      internalID: -696379987974265985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_29
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b8cadcc6ead970800000000000000
+      internalID: 8780584191030507895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ac94b7f5756cd0800000000000000
+      internalID: -2565514705970093627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_31
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386ad517e3bd53c70800000000000000
+      internalID: 8950300895705147011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_32
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 205
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289af5de61b027240800000000000000
+      internalID: 4787901546947914114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 89
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee901489dfd9f7d0800000000000000
+      internalID: -2884027961037512980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 25
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a68100e751799fc0800000000000000
+      internalID: -3487631814187448665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 25
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f65baf3c78a5d80800000000000000
+      internalID: -8261141290663186611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_36
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 25
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf50038b8ade97b0800000000000000
+      internalID: -5215491025715306580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_37
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 25
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec3503832af35ec0800000000000000
+      internalID: -3579242248400454432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_38
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 25
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7903c47531fd77440800000000000000
+      internalID: 4933657190969651351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_39
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 25
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e285b4636062d5010800000000000000
+      internalID: 1179140485563504686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_40
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 25
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b14a3e5c6077a30800000000000000
+      internalID: 4212843423425895218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_41
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 25
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cd3e69bc835fb50800000000000000
+      internalID: 6626264873806584841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_42
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 25
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746effc6a4b0334e0800000000000000
+      internalID: -2003244994965543353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 89
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d1a1a3c39acb040800000000000000
+      internalID: 4664789390186913081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e994b3cc131c3a710800000000000000
+      internalID: 1703417503700175262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ed34c8307af4df0800000000000000
+      internalID: -193752625273643405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb3d6d0d6537cf0800000000000000
+      internalID: -255765298872598623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791652827ae9ee1a0800000000000000
+      internalID: -6778305948375752297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e234fd40c4a2da0800000000000000
+      internalID: -5968874772316868965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6566694da601f910800000000000000
+      internalID: 1869282661666022766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950d7633eb95e820800000000000000
+      internalID: 2946932931357902225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_8
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d62485bf00ec20800000000000000
+      internalID: 3233601804732651683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8532846a87a21390800000000000000
+      internalID: -7849026987719772788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kran-3_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 580
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37820a6860c577b20800000000000000
+      internalID: 3132073248957671539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
